@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1067520593202",
+    "firebase_url": "https://seobyapp-c494e.firebaseio.com",
+    "project_id": "seobyapp-c494e",
+    "storage_bucket": "seobyapp-c494e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067520593202:android:5a48f19912ef4248badb2b",
+        "android_client_info": {
+          "package_name": "com.aos.seobyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067520593202-4l3bclk7tko85kumqv9346vs08i8mctn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB1xplY5uFrbI9IXohOQHijZFuK1RXhgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067520593202-4l3bclk7tko85kumqv9346vs08i8mctn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
