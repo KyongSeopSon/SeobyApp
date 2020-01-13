@@ -31,9 +31,19 @@
         android:id="@+id/btnWebView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginEnd="76dp"
+        android:layout_marginEnd="136dp"
         android:onClick="btnWebView_Click"
         android:text="웹뷰 호출"
+        app:layout_constraintEnd_toEndOf="parent"
+        tools:layout_editor_absoluteY="581dp" />
+
+    <Button
+        android:id="@+id/btnDetail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="32dp"
+        android:onClick="btnDetail_Click"
+        android:text="Detail 호출"
         app:layout_constraintEnd_toEndOf="parent"
         tools:layout_editor_absoluteY="581dp" />
 
