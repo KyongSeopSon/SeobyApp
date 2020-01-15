@@ -21,6 +21,8 @@ public class FirebaseInterface {
 
         Bundle params = new Bundle();
 
+
+
         if (type.equals("PAGEVIEW")) {
             params.putString("pageUrl", param1);
             params.putString("pageTitle", param2);
